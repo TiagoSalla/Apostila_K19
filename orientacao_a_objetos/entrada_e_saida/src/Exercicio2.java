@@ -13,5 +13,6 @@ public class Exercicio2 {
             String linha = scanner.nextLine();
             printStream.println(linha);
         }
+
     }
 }
